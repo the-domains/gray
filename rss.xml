@@ -4,7 +4,7 @@
         <description><![CDATA[Shannon "Gray" DeJong]]></description>
         <link>https://thegrid.ai/gray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 16:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 16:04:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gray/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/gray/b17f90fe-80f8-43c5-abd6-02cbfbb86c0a/index.html</link>
             <guid isPermaLink="false">b17f90fe-80f8-43c5-abd6-02cbfbb86c0a</guid>
             <pubDate>Mon, 28 Mar 2016 16:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be2a0a3f-31af-46bc-a665-f7886cca8140.jpg">]]></description>
-            <link>https://thegrid.ai/gray/14015918-539e-45f2-8bfe-b42a7cbd5340/index.html</link>
-            <guid isPermaLink="false">14015918-539e-45f2-8bfe-b42a7cbd5340</guid>
-            <pubDate>Fri, 18 Mar 2016 15:36:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
