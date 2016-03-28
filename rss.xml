@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[gray]]></title>
-        <description><![CDATA[gray]]></description>
+        <title><![CDATA[Shannon "Gray" DeJong]]></title>
+        <description><![CDATA[Shannon "Gray" DeJong]]></description>
         <link>https://thegrid.ai/gray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 15:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 15:53:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gray/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>* * *</p>]]></description>
+            <link>https://thegrid.ai/gray/b17f90fe-80f8-43c5-abd6-02cbfbb86c0a/index.html</link>
+            <guid isPermaLink="false">b17f90fe-80f8-43c5-abd6-02cbfbb86c0a</guid>
+            <pubDate>Mon, 28 Mar 2016 15:52:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be2a0a3f-31af-46bc-a665-f7886cca8140.jpg">]]></description>
